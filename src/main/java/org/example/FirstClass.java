@@ -2,8 +2,7 @@ package org.example;
 
 public class FirstClass {
 
-    public static void main(String[] args) {
-        printThreeWords();
+    public static void main(String[] args) { printThreeWords();
     }
 
     public static void printThreeWords() {
